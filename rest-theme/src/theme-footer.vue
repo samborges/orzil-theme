@@ -9,7 +9,7 @@
 <template>
     <footer class="footer">
         <div class="container">
-            Copyright &copy; <a v-link="{ path: base_path }">{{ site_name }}</a>
+            Direitos autorais &copy; <a v-link="{ path: base_path }">{{ site_name }}</a>
         </div>
     </footer>
 </template>
